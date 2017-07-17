@@ -1,3 +1,3 @@
-activate py34
+activate py36
 
 ipython notebook --matplotlib=inline
